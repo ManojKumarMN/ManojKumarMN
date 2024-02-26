@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManojKumarMN
+- 👋 Hi, I’m Manoj Kumar Mn
 - 🌱 I’m currently working as Data scientist
 - 📫 How to reach me "manojkumarmn9632@gmail.com"
 
